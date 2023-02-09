@@ -1,5 +1,5 @@
 # Module 1 Challenge
-#Horiseon Webpage Accessibility Update
+# Horiseon Webpage Accessibility Update
 A update to the HTML and CSS for this webpage
 
 ## Description
